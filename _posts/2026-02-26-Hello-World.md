@@ -14,3 +14,5 @@ categories: jekyll update
 
 一些 **Markdown** 内容。
 公式 $\LaTeX$
+$$ E = mc^2 $$
+$$ K = \frac{1}{2}mv^2 $$
