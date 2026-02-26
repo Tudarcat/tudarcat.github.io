@@ -1,0 +1,5 @@
+title: blogs
+description: .
+theme: minima
+markdown: kramdown
+permalink: /:year/:month/:day/:title.html
