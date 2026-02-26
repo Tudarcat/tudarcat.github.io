@@ -8,3 +8,6 @@ permalink: /:year/:month/:day/:title.html
 
 plugins:
   - jekyll-feed
+
+header_pages:
+  - categories.md
